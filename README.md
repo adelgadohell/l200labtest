@@ -1,4 +1,4 @@
-# l200labtest
+# l200 repository of ARM templates
 
 To deploy:
 
