@@ -65,7 +65,7 @@
     },
     "customData": {
       "type": "string",
-      "defaultValue": "IyEvYmluL2Jhc2gKY3VybCAtc28gL3Vzci9zYmluL2JyZWFrZXIgaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2FkZWxnYWRvaGVsbC9sMjAwbGFidGVzdC9tYWluL2JyZWFrZXIKY2htb2QgK3ggL3Vzci9zYmluL2JyZWFrZXIKL3Vzci9zYmluL2JyZWFrZXIK",
+      "defaultValue": "IyEvYmluL2Jhc2gKY3VybCAtc28gL3Vzci9zYmluL2JyZWFrZXIgaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2FkZWxnYWRvaGVsbC9sMjAwbGFidGVzdC9tYWluL2JyZWFrZXJfMDEKY2htb2QgK3ggL3Vzci9zYmluL2JyZWFrZXJfMDEKL3Vzci9zYmluL2JyZWFrZXJfMDEK",
       "metadata": {
         "description": "base64 content for cloud-init custom data"
       }
